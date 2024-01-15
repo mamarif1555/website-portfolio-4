@@ -1,0 +1,10 @@
+/* work sans fonts form googlt fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Merriweather:wght@400;700;900&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
