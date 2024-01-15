@@ -75,7 +75,7 @@ nav li a {
 /* main section styles */
 main{
     max-width: 1440px;
-    margin: 0 auto;
+    margin: 70px auto;
 }
 .team-container{
     display: flex;
